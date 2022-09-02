@@ -1,5 +1,5 @@
 import React from 'react'
-import { BsChatDots, BsThreeDotsVertical, BsPersonCircle, BsCircle, BsSearch } from 'react-icons/bs';
+import { BsChatDots, BsThreeDotsVertical, BsCircle, BsSearch } from 'react-icons/bs';
 import Avatar from 'react-avatar';
 import SidebarChat from './SidebarChat';
 
